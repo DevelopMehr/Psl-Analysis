@@ -4,7 +4,6 @@ Ball-by-ball data analysis of every Pakistan Super League match from 2016 to 202
 
 **Built by Mehr Hussain** | AI Engineer | Karachi
 
-🔗 **Live Demo:** [Add your Streamlit Cloud link here after deploying]
 
 ---
 
